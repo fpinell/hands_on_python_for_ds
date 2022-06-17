@@ -1,1 +1,1 @@
-# hands_on_ptrhon_for_ds
+# hands_on_python_for_ds
