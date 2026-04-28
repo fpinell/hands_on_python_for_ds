@@ -1,0 +1,24 @@
+neighborhood,distance_duomo_km,avg_income_eur,transport_score
+Centro storico,0.5,55000,9
+Brera,0.8,62000,8
+Quadrilatero,0.4,75000,9
+Porta Venezia,1.5,48000,8
+Porta Romana,2.2,45000,8
+Magenta,1.8,50000,8
+Navigli,2.5,42000,8
+Isola,3.0,40000,8
+Porta Garibaldi,2.0,52000,9
+Tortona,3.5,44000,7
+Nolo,4.0,38000,7
+Città Studi,3.5,39000,8
+Bocconi,2.5,47000,8
+Sempione,2.0,43000,8
+Bicocca,6.5,35000,7
+Lambrate,5.0,36000,7
+De angeli,4.0,41000,8
+Affori,7.5,32000,6
+Greco,6.0,33000,6
+Quarto Oggiaro,9.0,28000,5
+Baggio,7.0,31000,5
+Corvetto,5.5,30000,7
+Lorenteggio,6.5,33000,5
